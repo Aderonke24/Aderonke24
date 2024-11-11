@@ -2,7 +2,7 @@
 - 👀 I’m interested in Soft Computing.
 - 🌱 I’m currently learning Data Analysis.
 - 💞️ I’m looking to collaborate on data analysis projects.
-- 📫 How to reach me Facebook, instagram (@bosedeoluwashina).
+- 📫 How to reach me: Facebook, instagram (@bosedeoluwashina).
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Learning is continuous, once you stop learning, you start dying.
 
